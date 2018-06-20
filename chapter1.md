@@ -28,7 +28,7 @@
 
 确定业务过程，数据建模，不应该是数据驱动，而应该是业务驱动。
 
-![](//note.youdao.com/src/228B3B60E3C140C99804A616D8CD5912)
+![image.png](https://upload-images.jianshu.io/upload_images/7220971-8d68fc7a4906022e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
   
 
