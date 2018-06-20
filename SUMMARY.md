@@ -1,3 +1,3 @@
 # Table of content
 
-* [First Chapter](chapter1.md)
+* [第三章零售业务中的知识点汇总](chapter1.md)
